@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1,Bein 1
+https://cdx6.new-cdn.xyz/view.m3u8?h=34d27c0c483ee4c7a47b101e702ab1eff327308b8424fbe650e9709f575769208c8171fb102e6d7
+#EXTINF:-1,Bein 2
+https://cdx7.new-cdn.xyz/view.m3u8?h=880c6a225da744c3b548d423f3b6f6f6c736e004ff4788669bf43d4ed019c2dfa81f4b18e086a2e9
+#EXTINF:-1,Bein 5
+https://cdx5.new-cdn.xyz/view.m3u8?h=1ad208f35c0f1afe6568666f753b8c156b9ad6a0ede3853e830e897a6ad7c574c5ce81cc9c674a8c
+#EXTINF:-1,ABC
+http://192.168.1.5:30001/proxy/TNOOnIVs/ch/73uuRLJ9PeXWIj0VNu9m-g/1592965447/abc.m3u8
+#EXTINF:-1,ABC Proxy
+http://hls.123tv.live/ch/73uuRLJ9PeXWIj0VNu9m-g/1592965447/abc.m3u8
+#EXTINF:-1,ABC Mob
+http://10.13.181.149:30001/proxy/Nwx7nm8N/ch/6kSkQNGjYG2oIwSc-V_Xlg/1592983059/abc.m3u8
+
+#EXTINF:-1,Bein 1 Mob
+https://cdx11.new-cdn.xyz/view.m3u8?h=c6688cce86742167ee117fac3fbab37b042c94fda50cb3269a31f546782e448b4eecb05b985db967
+#EXTINF:-1,OSN 2
+https://cdx10.new-cdn.xyz/view.m3u8?h=11dac6c8f6b537abbeac1328edd2fe332c186b38e39e1873b187473382bbab78fb5747ae4ae336a4
+#EXTINF:-1,OSN 2 Mob
+https://cdx10.new-cdn.xyz/view.m3u8?h=2636038bb9fced671c17eb6a1599877a6dee788e52fae8854dd7f1ed9cf7075775d57509fc7b14ca
+#EXTINF:-1,Agents
+http://192.168.1.5:30001/file/PTWKAcEu/video.mkv
+#EXTINF:-1,Agents Mob
+http://10.13.181.149:30001/file/8T4Wb13e/video.mkv
