@@ -1,0 +1,16 @@
+#EXTM3U
+
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-510682780",NAME="TV Ton",LANGUAGE="deu",DEFAULT=YES,URI="https://zdf-hls-15.akamaized.net/hls/live/2016498/de/e6d1ae3a04b97f64491fec36dcf5a6ed/5/5.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-510682780",NAME="Originalton",LANGUAGE="mul",URI="https://zdf-hls-15.akamaized.net/hls/live/2016498/de/e6d1ae3a04b97f64491fec36dcf5a6ed/6/6.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-510682780",NAME="Audio-Deskription",LANGUAGE="deu",URI="https://zdf-hls-15.akamaized.net/hls/live/2016498/de/e6d1ae3a04b97f64491fec36dcf5a6ed/7/7.m3u8"
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-1266820252",NAME="TV Ton",LANGUAGE="deu",DEFAULT=YES,URI="https://zdf-hls-15.akamaized.net/hls/live/2016498-b/de/e6d1ae3a04b97f64491fec36dcf5a6ed/5/5.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-1266820252",NAME="Originalton",LANGUAGE="mul",URI="https://zdf-hls-15.akamaized.net/hls/live/2016498-b/de/e6d1ae3a04b97f64491fec36dcf5a6ed/6/6.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="A1.1+A2.1+A3.1-1266820252",NAME="Audio-Deskription",LANGUAGE="deu",URI="https://zdf-hls-15.akamaized.net/hls/live/2016498-b/de/e6d1ae3a04b97f64491fec36dcf5a6ed/7/7.m3u8"
+
+#EXT-X-STREAM-INF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/e6d1ae3a04b97f64491fec36dcf5a6ed/4/4.m3u8
+#EXT-X-STREAM-INF
+https://zdf-hls-15.akamaized.net/hls/live/2016498-b/de/e6d1ae3a04b97f64491fec36dcf5a6ed/4/4.m3u8
+
