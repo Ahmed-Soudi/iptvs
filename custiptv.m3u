@@ -8,7 +8,7 @@ https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
 #EXTINF:-1,MBC MAX
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 #EXTINF:-1,BBC-VPN
-http://192.168.1.5:8080/iptvs/BBC-VPN/BBC-VPN.m3u
+http://192.168.1.5:8080/iptvs/BBC-VPN/BBC-VPN.m3u8
 #EXTINF:-1,Bein 1
 https://cdx6.new-cdn.xyz/view.m3u8?h=34d27c0c483ee4c7a47b101e702ab1eff327308b8424fbe650e9709f575769208c8171fb102e6d7
 #EXTINF:-1,Bein 2
