@@ -16,11 +16,9 @@ https://cdx7.new-cdn.xyz/view.m3u8?h=880c6a225da744c3b548d423f3b6f6f6c736e004ff4
 #EXTINF:-1,Bein 5
 https://cdx5.new-cdn.xyz/view.m3u8?h=1ad208f35c0f1afe6568666f753b8c156b9ad6a0ede3853e830e897a6ad7c574c5ce81cc9c674a8c
 #EXTINF:-1,ABC
-http://192.168.1.5:30001/proxy/TNOOnIVs/ch/73uuRLJ9PeXWIj0VNu9m-g/1592965447/abc.m3u8
-#EXTINF:-1,ABC Proxy
-http://hls.123tv.live/ch/73uuRLJ9PeXWIj0VNu9m-g/1592965447/abc.m3u8
-#EXTINF:-1,ABC Mob
-http://10.13.181.149:30001/proxy/Nwx7nm8N/ch/6kSkQNGjYG2oIwSc-V_Xlg/1592983059/abc.m3u8
+http://192.168.1.5:30001/proxy/h87LdM8H/ABC/myStream/chunks.m3u8
+#EXTINF:-1,CW
+http://192.168.1.5:30001/proxy/3W8ePBCa/CW/myStream/chunks.m3u8
 
 #EXTINF:-1,Bein 1 Mob
 https://cdx11.new-cdn.xyz/view.m3u8?h=c6688cce86742167ee117fac3fbab37b042c94fda50cb3269a31f546782e448b4eecb05b985db967
