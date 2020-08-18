@@ -19,8 +19,6 @@ https://cdx5.new-cdn.xyz/view.m3u8?h=1ad208f35c0f1afe6568666f753b8c156b9ad6a0ede
 http://192.168.1.5:30001/proxy/h87LdM8H/ABC/myStream/chunks.m3u8
 #EXTINF:-1,CW
 http://192.168.1.5:30001/proxy/3W8ePBCa/CW/myStream/chunks.m3u8
-#EXTINF:-1,BT Sports 3
-http://ingrid.ltd:25461/Juan123456/Juan123456/3397?checkedby:iptvcat.com
 #EXTINF:-1,Bein 1 Mob
 https://cdx11.new-cdn.xyz/view.m3u8?h=c6688cce86742167ee117fac3fbab37b042c94fda50cb3269a31f546782e448b4eecb05b985db967
 #EXTINF:-1,OSN 2
