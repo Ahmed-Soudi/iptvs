@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
 #EXTINF:-1 tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/zip/United%20Arab%20Emirates_mbc.net.E.zip", MBC 2
 https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
 #EXTINF:-1,Dubai One
