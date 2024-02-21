@@ -1,33 +1,9 @@
 #EXTM3U
 #EXTINF:-1,La 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
-#EXTINF:-1 tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/zip/United%20Arab%20Emirates_mbc.net.E.zip", MBC 2
-https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+#EXTINF:-1,L'Équipe 3
+https://www.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=9Me0LoAlPWC6i6E-LJmT0lYR1k9XRsB2b7xb0mgN49nEy4zDLQ6OlZg0FkWpoe6J&dmTs=398768&dmV1st=ad241aa7-919e-42c6-9e40-8152d12f0c3c
 #EXTINF:-1,Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1,MBC Bollywood
-https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
-#EXTINF:-1,MBC MAX
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
-#EXTINF:-1,The Old Guard (2020)
-https://c1-b0083-n-bzdq.vidstream.kim/stream/558e2f85f5462991QdtbyuiSzjsITaDD9.euAlfqd92eP2-eee3NultQ__.UWUwa2E5QnpLZWg2RHhEc2JNYVZTd2FpQzdhQ3VhVnBSdVNSQ1g4MXhTelFmOXVpRi9ITWg3NXRiZHBNNUFWcUs1bWt1N28wYjlORjREcFJqdTZXV3RYTWdMQ2V0SE9EZldRSjFlZ21hNUs4OGpZK0JZaFdkV0YwYWtRcFRRTSt4czFWUWR4djAwWEo3aWp6Z2x4L2JSZlA2SUc3ellVc0lIbjdOc2cyZ1Bad0Rlbk02bEMraEVtcHVlY1pRL2tDWUd1VmhwS0ZSa21HUld3VnluQTcrWVRTT1ZwWGVJRlNlckF4WUZBNmcxRml6NlVCREJaWjZjL2Y4UmVra3Y0eXpraytKOTVJSjM4cnFnK2JuRVZJWjdmbk03U2dXQ1lIdnBFbzY3NlB3b1A3eHVGOHRsN3V2dkxINFFpL0oxY2dUL3ZBY09BdWttSDRUSzJYOTJRQWdZd3I0RXc3bnZoN3hKWGRQUWNMQTBkRHpJRDJMVHp1cXBVVkdCUzlYYjJTdDBMckFsOWRwMmF1UFpDQjV6aGprZG5CZ0JkamdNRmdXSHB4QXpiV0FaazUxaWc9/stream.m3u8
-#EXTINF:-1,Bein 12
-https://bit.ly/2W7PH0P
-#EXTINF:-1,Bein 2
-https://cdx7.new-cdn.xyz/view.m3u8?h=880c6a225da744c3b548d423f3b6f6f6c736e004ff4788669bf43d4ed019c2dfa81f4b18e086a2e9
-#EXTINF:-1,Bein 5
-https://cdx5.new-cdn.xyz/view.m3u8?h=1ad208f35c0f1afe6568666f753b8c156b9ad6a0ede3853e830e897a6ad7c574c5ce81cc9c674a8c
-#EXTINF:-1,ABC
-http://192.168.1.5:30001/proxy/h87LdM8H/ABC/myStream/chunks.m3u8
-#EXTINF:-1,CW
-http://192.168.1.5:30001/proxy/3W8ePBCa/CW/myStream/chunks.m3u8
-#EXTINF:-1,Bein 1 Mob
-https://cdx11.new-cdn.xyz/view.m3u8?h=c6688cce86742167ee117fac3fbab37b042c94fda50cb3269a31f546782e448b4eecb05b985db967
-#EXTINF:-1,OSN 2
-https://cdx10.new-cdn.xyz/view.m3u8?h=11dac6c8f6b537abbeac1328edd2fe332c186b38e39e1873b187473382bbab78fb5747ae4ae336a4
-#EXTINF:-1,OSN 2 Mob
-https://cdx10.new-cdn.xyz/view.m3u8?h=2636038bb9fced671c17eb6a1599877a6dee788e52fae8854dd7f1ed9cf7075775d57509fc7b14ca
-#EXTINF:-1,Agents
-http://192.168.1.5:30001/file/PTWKAcEu/video.mkv
-#EXTINF:-1,Agents Mob
-http://10.13.181.149:30001/file/8T4Wb13e/video.mkv
+mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
