@@ -3,10 +3,6 @@
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
 #EXTINF:-1,NRK 2
 https://httpcache0-47115-httpcache0.dna.ip-only.net/47115-cachelive0/22/0/hls/nrk_2/playlist.m3u8?bw_low=132&bw_high=4060&bw_start=1062&no_iframes&no_audio_only
-#EXTINF:-1,Rai 2
-https://raidue1-live.akamaized.net/hls/live/598310/raidue1/raidue1/playlist_ma.m3u8?hdnea=st=1708715838~exp=1708715988~acl=/*~hmac=42c35739646bf820b6903ae301bc82c3c71732b658d0f4bb485082bc0f3cccfd
-#EXTINF:-1,L'Équipe 3
-https://www.dailymotion.com/cdn/live/video/x6hd04v.m3u8?sec=9Me0LoAlPWC6i6E-LJmT0lYR1k9XRsB2b7xb0mgN49nEy4zDLQ6OlZg0FkWpoe6J&dmTs=398768&dmV1st=ad241aa7-919e-42c6-9e40-8152d12f0c3c
 #EXTINF:-1,Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1,MBC Bollywood
